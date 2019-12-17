@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HDOJ2000",
+            "request": "launch",
+            "mainClass": "HDOJ2000",
+            "projectName": "AlgorithmProblemSolution_8dbadea5"
+        }
+    ]
+}
